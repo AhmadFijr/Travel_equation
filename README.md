@@ -1,5 +1,4 @@
 # Travel_equation
-type np problem
 
 A friend of mine who studies at the Faculty of Mathematics asked me to help him convert a mathematical equation to solve an np-type problem and make a program that does the calculations.
 
